@@ -32,3 +32,5 @@ Score: 27
 3. 이를 vim으로 바꾸어준다: /vim
 4. 전체를 바꿔줄 것이기 때문에 g옵션을 준다: /g
 
+<img src="https://user-images.githubusercontent.com/93987703/144703857-47f71a4e-763f-4421-9040-d71a3387aa61.png" width=50% height=50%>
+
