@@ -15,3 +15,20 @@ Score: 9
 8. 저장 후 종료한다: ZZ
 
 <img src="https://user-images.githubusercontent.com/93987703/144703236-959ef119-d831-4a04-9b56-3586a5e37330.png" width=50% height=50%>
+
+
+(2) simple replacements
+
+<img src="https://user-images.githubusercontent.com/93987703/144703310-d66c0446-a44d-40ad-96d2-e5b57c49f32c.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/93987703/144703313-c452629d-6183-40cf-b3f4-944d3d88a781.png" width=50% height=50%>
+
+sublime --> vim
+emacs --> vim
+
+Score: 27
+
+1. 문서 전체에 대한 문자열치환을 위해서 :%s/
+2. 바꿀 문자인 sublime과 emacs를 or로 연결해준다: sublime\|emacs
+3. 이를 vim으로 바꾸어준다: /vim
+4. 전체를 바꿔줄 것이기 때문에 g옵션을 준다: /g
+
