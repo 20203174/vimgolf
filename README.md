@@ -14,3 +14,4 @@ Score: 9
 7. 입력모드에서 명령어모드로 바꿔준다: Esc
 8. 저장 후 종료한다: ZZ
 
+<img src="https://user-images.githubusercontent.com/93987703/144703236-959ef119-d831-4a04-9b56-3586a5e37330.png" width=50% height=50%>
