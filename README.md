@@ -56,6 +56,7 @@ Score: 35
 
 
 (4) Plotting some variables in python
+
 <img src="https://user-images.githubusercontent.com/93987703/144740747-b0a350a0-dd62-477d-af3a-f45e3ab9b861.png" width=50% height=50%>
 <img src="https://user-images.githubusercontent.com/93987703/144740755-6eaa4816-26cd-4e26-a712-f5d8ccbe893d.png" width=50% height=50%>
 
