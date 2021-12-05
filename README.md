@@ -70,3 +70,17 @@ Score: 60
 
 <img src="https://user-images.githubusercontent.com/93987703/144741067-0fd8fc24-85b6-4e48-8654-2e4169ca33ed.png" width=50% height=50%>
 
+
+(5) Python dataclasses
+
+<img src="https://user-images.githubusercontent.com/93987703/144741105-8bb237c0-f917-415c-b1c0-8c2d08e5160e.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/93987703/144741106-e1a18f4a-0fd9-468a-900a-6c8eba42578b.png" width=50% height=50%>
+
+Score: 28
+
+1. 다섯번째 줄로 이동해서 student_id를 복사할 것임: :5<CR>yw  #yw는 단어 단위 복사
+2. 후에 /"로 쌍따옴표 있는 곳으로 이동한 후 복사한 내용 붙여넣기:/"<CR>p
+3. 이후 필드는 직접 입력: a,name,age,score<ESC>  #a는 커서 다음 위치부터 입력모드
+4. 저장후 나가기 ZZ
+  
+  
