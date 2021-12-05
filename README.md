@@ -40,7 +40,7 @@ Score: 27
 <img src="https://user-images.githubusercontent.com/93987703/144703897-e68f1cde-6ddf-4efa-84b7-0f3c95f43c36.png" width=50% height=50%>
 <img src="https://user-images.githubusercontent.com/93987703/144703899-c6c547f1-2f7e-4527-86bc-4e2ea589d717.png" width=50% height=50%>
 
-Score: 
+Score: 35
 
 1. 먼저 4번째 줄로 이동해준다: :4 
 2. 그러면 커서가 V로 이동하고 그 앞줄에 주석문을 추가하기 때문에 현재 라인 이전 줄 추가해서 편집모드를 열어준다: O
@@ -51,4 +51,21 @@ Score:
 7. 커서가 /로 이동하고 다음 문자의 시작으로 이동한다: W
 8. 단어 단위로 편집하는 cw로 Version단어를 Debug로 수정한다: cw, Debug작성
 9. 명령모드로 돌아와서 저장후 나간다: Esc, ZZ
+
+<img src="https://user-images.githubusercontent.com/93987703/144740724-d6a243d5-91a4-4864-b4d3-5c597621c65e.png" width=50% height=50%>
+
+
+(4) Plotting some variables in python
+<img src="https://user-images.githubusercontent.com/93987703/144740747-b0a350a0-dd62-477d-af3a-f45e3ab9b861.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/93987703/144740755-6eaa4816-26cd-4e26-a712-f5d8ccbe893d.png" width=50% height=50%>
+
+Score: 60
+
+1. :%s/y1/abs(y1) #y1문자를 abs(y1)로 문자로 바꿔준다. 
+2. 커서가 자동으로 마지막 라인으로 이동되는데, 이 때 문서 마지막 부분으로 커서를 옮겨준다: $
+3. 1문자가 있는 곳을 1,2,3,4중 맞는 값으로 넣어줄건데 이를 위해 거꾸로 문자를 찾는 ?(text)를 이용한다: ?1 --> n 으로 이동가능! 문자를 바꿀 때는 한 글자만 바꿔주는 r 이용!
+4. 마지막 1을 2로 바꾼 후에 마지막으로 k문자들만 바꾸어주면 된다. 해당 라인에서 문자를 바꿔주며 이동한다: /k --> n 으로 이동! 문자를 바꿀 때는 r 이용!
+5. 이후 종료 ZZ
+
+<img src="https://user-images.githubusercontent.com/93987703/144741067-0fd8fc24-85b6-4e48-8654-2e4169ca33ed.png" width=50% height=50%>
 
